@@ -1,0 +1,20 @@
+{
+    "lv": 187,
+    "title": "TeraDict: Vertimas per PanLex",
+    "teradict": "TeraDict",
+    "teradict_description": "Isverskit anglu kalbos zodzius y visas kalbas!",
+    "word_or_phrase": "zodys arba frazė:",
+    "translate": "išversti!",
+    "can_translate": "TeraDict gali išversti zody y:",
+    "tr_not_found": "TeraDict negali išversti šį anglišką žodį ar frazę . pabandykite vel",
+    "ex_not_found": "TeraDict negali išversti šįo anglišką žodzio ar frazęs . pabandykite vel:",
+    "more_languages": "Daugiau isvertimu, Gauti vertimu arba isversti naudojant PanLex.",
+    "translations": "Isvertimai:",
+    "translate_new": "Isversti naujo zody arba frazę",
+    "malfunction": "Atsiprašau. išvertimai neveikia.",
+    "valid_xhtml": "Veikia XHTML 1.1",
+    "see_all": "pamatyti visus vertimus",
+    "all": "Visi",
+    "see_translations": "Pamatyti vertimus y",
+    "teradict_translates": "TeraDict verčia tai y:"
+}
